@@ -4,7 +4,7 @@ This script provides ways to generate randomized gears for games created by RPG 
 
 Compatibility
 ------------
-This script might not compatible with many other gear modifying modules.
+This script might not be compatible with many other gear modifying modules.
 
 In RMXP's original setting, gears created by a same database prototype share a same object, thus making property variations for gears from same prototype impossible. For example, adding "1 atk" to an iron sword in game makes all iron swords in the game world share that plus attack.
 
